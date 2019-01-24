@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KumpulanDoa</string>
+    <string name="btn_home">Home</string>
+    <string name="btn_doa">Doa</string>
+    <string name="btn_profile">Profile</string>
+    <string name="salam">Assalamualaikum</string>
+    <string name="nama">Cartridge Ryan Fraditya</string>
+    <string name="doa_title">Doa</string>
+    <string name="doa_subtitle">Arti</string>
+    <string name="prodi">Teknik Informatika</string>
+    <string name="ttl">04, Juli 1998</string>
+    <string name="kampus">STT Terpadu Nurul Fikri</string>
+    <string name="nim">0110216036</string>
+
+</resources>
